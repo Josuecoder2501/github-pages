@@ -1,0 +1,24 @@
+/* style.css */
+
+body {
+    font-family: helvetica, sans-serif;
+    margin:0;
+    padding:0;
+    background-color: #c99de5;
+}
+
+header {
+    background-color: #43175c;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer{
+    background-color: #43175c;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Add more styles as needed *
